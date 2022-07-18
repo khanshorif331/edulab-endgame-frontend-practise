@@ -7,6 +7,7 @@ function App() {
 			<h1>Eduhub</h1>
 			<p>Helloo</p>
 			<p>sadik</p>
+			<p>Navbar from sadik brunch</p>
 		</div>
 	)
 }
