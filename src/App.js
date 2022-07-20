@@ -7,10 +7,11 @@ import 'swiper/css/effect-coverflow'
 import 'swiper/css/pagination'
 import { Autoplay, EffectCoverflow, Pagination } from 'swiper'
 import './styles.css'
+import Something from './components/Something/Something'
 
 function App() {
 	return (
-		<div className='App'>
+		<div className='App bg-black'>
 			<h1>Eduhub</h1>
 			<div>
 				<Swiper
@@ -77,6 +78,7 @@ function App() {
 				</Swiper>
 			</div>
 			<h1>Hello </h1>
+			<Something></Something>
 		</div>
 	)
 }
