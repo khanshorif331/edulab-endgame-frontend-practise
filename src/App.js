@@ -10,6 +10,7 @@ import "./styles.css";
 import Something from "./components/Something/Something";
 
 function App() {
+<<<<<<< HEAD
   return (
     <div className="App bg-black">
       <h1>Eduhub</h1>
@@ -82,6 +83,16 @@ function App() {
       <Something></Something>
     </div>
   );
+=======
+	return (
+		<div className='App'>
+			<h1>Eduhub</h1>
+			<p>Helloo</p>
+			<p>sadik</p>
+			<p>Navbar from sadik brunch</p>
+		</div>
+	)
+>>>>>>> 31aec4896c1a78c8dd14a82ab6d40d03b43a8532
 }
 
 export default App;
