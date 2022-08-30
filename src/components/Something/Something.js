@@ -77,6 +77,7 @@ const Something = () => {
           </div>
         </SwiperSlide>
         {/* slide-4 */}
+        <h3>Sadik vai</h3>
         <SwiperSlide>
           <div className="p-6 text-white border-2 border-purple-500 ">
             <FaCamera className="h-10 w-10 text-purple-500  mx-auto" />
